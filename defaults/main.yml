@@ -1,0 +1,11 @@
+---
+# Users to install packages for
+users: []
+
+# users:
+#   - username: vagrant
+#     atom_packages:
+#       - minimap
+#       - linter
+#       - atom-beautify
+#       - file-icons
