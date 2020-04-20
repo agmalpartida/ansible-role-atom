@@ -4,7 +4,7 @@ dependencies: []
 galaxy_info:
   role_name: atom
   author: agmalpartida
-  description: Role for custom the atom.io editor.
+  description: Role for customize the atom.io editor.
   company: ""
   license: "license (BSD, MIT)"
   min_ansible_version: 2.2
